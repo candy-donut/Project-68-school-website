@@ -1,0 +1,11 @@
+.menubar{
+    position: sticky;
+     top:0px;
+    z-index: 99999px;
+}
+#schoolprincipal{
+    padding-left: 0px;
+}
+#sharonmiddle{
+    width:100%;   
+}
